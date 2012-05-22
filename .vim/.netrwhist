@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/sdemjanenko/newrelic_score/app/views/apdex/plot'
+let g:netrw_dirhist_2='/Volumes/Meraki/co/manage'
+let g:netrw_dirhist_3='/Users/sdemjanenko/newrelic_score/app/views'
+let g:netrw_dirhist_4='/Volumes/Meraki/co/manage/private/javascripts'
